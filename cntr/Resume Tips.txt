@@ -1,0 +1,37 @@
+🪢Resume
+
+	1.Single column 
+	2.Double column
+
+	-> Should be short
+	-> Only relevant things should be added
+
+🪢CGPA->
+	Above 8++ then mentions
+
+🪢College->
+	No matter ->skill
+
+🪢 Top part
+	Name
+	Links->Email,Linkedin,Github &C oding platform
+
+🪢 Internship & Expereince
+
+
+🪢 Projects
+	Internship->4 Or 4
+	Placement->2 Or 3
+
+🪢 Education
+	
+	College/Graduation
+	Secondary school
+	High school
+
+🪢  Extra activity & Achievements & position of responsibility
+
+	Team work
+ 	title->project->Role
+	
+🪢RELEVANT
