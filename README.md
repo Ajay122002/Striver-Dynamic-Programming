@@ -1,1 +1,1 @@
-# Striver-Dynamic-Programming
+# Striver-Dynamic-Programming-Series
